@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">头部</string>
+    <string name="title_home">首页</string>
+    <string name="title_dashboard">订单</string>
+    <string name="title_notifications">我的</string>
+    <string name="latitude">纬度</string>
+    <string name="longitude">经度</string>
+    <string name="altitude">高度</string>
+</resources>
